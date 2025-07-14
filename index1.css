@@ -1,0 +1,25 @@
+
+.portfolio{
+    background-color: white;
+}
+.portfoli{
+    background-color: rgb(226, 231, 231);
+    /* box-shadow: 0px 0px 25px 6px #362902db; */
+}
+.nav1{
+    font-size: 12px;
+}
+.resum{
+    font-size: 12px;
+}
+.color{
+    border: 1px solid rgb(241, 229, 219);
+}
+/* WORK */
+body{
+    background-color: rgb(255, 255, 255);
+}
+.box{
+    background-color: rgb(226, 231, 231);
+    /* box-shadow: 0px 0px 25px 6px #362902db; */
+}
